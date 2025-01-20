@@ -1,5 +1,11 @@
 # ox_lib
 
+Preview:
+
+![image](https://github.com/user-attachments/assets/528c3858-efd6-4c2e-907c-9ff8cbd62406)
+
+
+
 A FiveM library and resource implementing reusable modules, methods, and UI elements.
 
 ![](https://img.shields.io/github/downloads/overextended/ox_lib/total?logo=github)
