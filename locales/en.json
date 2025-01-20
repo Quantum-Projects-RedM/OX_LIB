@@ -1,0 +1,33 @@
+{
+  "language": "English",
+  "settings": "Podesavanja",
+  "ui": {
+    "cancel": "Otkazi",
+    "close": "Zatvori",
+    "confirm": "Potvrdi",
+    "more": "Vise...",
+    "settings": {
+      "locale": "Promeni jezik",
+      "locale_description": "Trenutni jezik: ${language} (%s)",
+      "notification_audio": "Zvuk obavestenja",
+      "notification_position": "Pozicija obavestenja"
+    },
+    "position": {
+      "bottom": "Dole",
+      "bottom-left": "Dole levo",
+      "bottom-right": "Dole desno",
+      "center-left": "Levo u sredini",
+      "center-right": "Desno u sredini",
+      "top": "Gore",
+      "top-left": "Gore levo",
+      "top-right": "Gore desno"
+    }
+  },
+  "open_radial_menu": "Otvori kruzni meni",
+  "cancel_progress": "Otkazi trenutni napredak",
+  "txadmin_announcement": "Najava servera od %s",
+  "txadmin_dm": "Direktna poruka od %s",
+  "txadmin_warn": "Upozoreni ste od strane %s",
+  "txadmin_warn_content": "%s  \nID akcije: %s",
+  "txadmin_scheduledrestart": "Planirano restartovanje"
+}
